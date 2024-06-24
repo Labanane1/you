@@ -1,3 +1,24 @@
 <resources>
-    <string name="app_name">you</string>
+    <string name="app_name">You</string>
+    <string name="service_name_1">Homme</string>
+    <string name="service_name_2">Femme</string>
+    <string name="service_name_3">Make-Up</string>
+    <string name="service_name_4">Hair Care</string>
+    <string name="service_name_5">Coloration</string>
+    <string name="service_name_6">Nails Art</string>
+    <string name="service_description_1">1.coupe simple:10$,                             2.dreadlocks: 40$ et 60$,                             3.coupe afro: 20$</string>
+    <string name="service_description_2">1. nattes: 5$,                             2.pose perruque: 20$,                             3.braids: 20$,                             4.brushing: 15$,
+    5. dreads locks:60$</string>
+    <string name="service_description_3">laissez-vous être sublimer</string>
+    <string name="service_description_4">1.defrissage: 10$,                             2.soins aux huiles essentielles: 15$,                             3.traitement des pousse de cheveux: 30$</string>
+    <string name="service_description_5">donnez de la couleur à vos cheveux</string>
+    <string name="service_description_6">1.manicure: 15$,                             2.pedicure: 15$,                             3.nails art: 25$</string>
+    <string name="about">A propos</string>
+    <string name="price">%d $</string>
+    <string name="booking">reserver</string>
+    <string name="buy_now">acheter</string>
+    <string name="book_now">reserve</string>
+    <string name="booking_confirmed">confirmé</string>
+    <string name="cancel_reservation">annuler</string>
+
 </resources>

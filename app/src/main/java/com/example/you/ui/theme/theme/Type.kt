@@ -1,5 +1,4 @@
-package com.example.woof.ui.theme
-
+package com.example.you.ui.theme.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
@@ -7,7 +6,7 @@ import androidx.compose.ui.text.font.Font
 import androidx.compose.ui.text.font.FontFamily
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.sp
-import com.example.woof.R
+import com.example.you.R
 
 // Set of Material typography styles to start with
 val AbrilFatface = FontFamily(

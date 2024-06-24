@@ -1,4 +1,4 @@
-package com.example.woof.ui.theme
+package com.example.you.ui.theme.theme
 
 import android.app.Activity
 import android.os.Build
@@ -82,7 +82,7 @@ private val DarkColors = darkColorScheme(
 )
 
 @Composable
-fun WoofTheme(
+fun YouTheme(
     darkTheme: Boolean = isSystemInDarkTheme(),
     // Dynamic color is available on Android 12+
     dynamicColor: Boolean = false,
